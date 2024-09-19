@@ -101,7 +101,7 @@ Create and manage purchase orders to replenish stock from suppliers.
 ```bash
 python cli.py orders create_purchase
 Supplier name: ABC Liquors
-Contact name: John Doe
+Contact name: Blaise Doe
 Contact phone: 123-456-7890
 Address: 123 Main Street
 Item name: Whiskey
