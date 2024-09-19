@@ -136,7 +136,7 @@ python cli.py suppliers update
 Supplier ID: 1
 New supplier name: XYZ Distributors
 New contact name: Kering Smith
-New contact phone: 987-654-3210
+New contact phone: 984-664-3210
 New address: 456 Elm Street
 ```
 ## Remove Supplier
