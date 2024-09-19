@@ -145,6 +145,9 @@ Delete a supplier from the system.
 python cli.py suppliers delete
 Supplier ID: 1
 
+##project video 
+/home/pc/Downloads/cliprojectvid.mp4
+
 ## Author
 By Alvin Kiptoo
 
