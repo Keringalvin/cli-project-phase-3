@@ -135,7 +135,7 @@ Modify the details of an existing supplier.
 python cli.py suppliers update
 Supplier ID: 1
 New supplier name: XYZ Distributors
-New contact name: Jane Smith
+New contact name: Kering Smith
 New contact phone: 987-654-3210
 New address: 456 Elm Street
 ```
